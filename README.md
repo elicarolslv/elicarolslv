@@ -29,14 +29,6 @@ Sou estudante do último semestre de Análise e Desenvolvimento de Sistemas na F
 
 ---
 
-## 🎯 Áreas de Interesse e Atuação
-
-* **Desenvolvimento de Aplicações:** Arquitetura limpa de software, APIs RESTful estáveis e engenharia web fullstack.
-* **Visão Computacional & Dados:** Classificação temporal de sequências e processamento inteligente de landmarks biomecânicas.
-* **Governança & Segurança:** Alinhamento estratégico, conformidade regulatória corporativa e aplicação prática da LGPD em fluxos de sistemas.
-
----
-
 ## 🤝 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elisandra-carol-da-silva-02424922b)
