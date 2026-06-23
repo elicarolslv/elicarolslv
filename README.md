@@ -16,7 +16,7 @@ Sou estudante do último semestre de Análise e Desenvolvimento de Sistemas na F
 
 ## 🚀 Projetos em Destaque
 
-* **🤟 [LibrasKids](https://github.com/elicarolslv/libraskids):** Software educacional full-stack com Inteligência Artificial (MediaPipe + KNN) voltado ao ensino lúdico e dinâmico de Libras (letras em movimento e palavras) para crianças.
+* **🤟 [LibrasKids](https://github.com/elicarolslv/libraskids):** Software educacional full-stack com Inteligência Artificial (MediaPipe + KNN + LSTM) voltado ao ensino lúdico e dinâmico de Libras (letras em movimento e palavras) para crianças.
 * **🍕 [Delizza](https://github.com/MariaClaraBertolo/Delizza):** Aplicação corporativa full-stack robusta desenvolvida em parceria acadêmica utilizando ecossistema Java.
 * **🐂 [BOVINTRADE](https://github.com/marianapegon/BOVINTRADE):** Sistema digital focado na modernização, agilização e gerenciamento de processos para a comercialização de gado.
 * **🎨 [Social Media Design Portfolio](https://github.com/elicarolslv/social-media-design-portfolio):** Portfólio focado em criação de conteúdo, identidade visual e gestão de design desenvolvidos para a monitoria institucional.
