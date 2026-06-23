@@ -14,16 +14,16 @@ Sou estudante do último semestre de Análise e Desenvolvimento de Sistemas na F
 
 ---
 
-## 🚀 Vitrine de Projetos (Destaques)
+##  Vitrine de Projetos (Destaques)
 
-### 🧠 Inteligência Artificial & Engenharia Web
-* **🤟 [LibrasKids](https://github.com/elicarolslv/libraskids):** Software educacional com IA (MediaPipe + OpenCV + KNN) para o ensino lúdico e dinâmico de Libras em tempo real. Desenvolvido em React no Front-end e Python/Flask no Back-end, possui modelos convertidos via TensorFlow.js para execução direta no navegador.
+###  Inteligência Artificial & Engenharia Web
+* **🤟 [LibrasKids](https://github.com/elicarolslv/libraskids):** Software educacional com IA (MediaPipe + OpenCV + KNN + LSTM) para o ensino lúdico e dinâmico de Libras em tempo real. Desenvolvido em React no Front-end e Python/Flask no Back-end, possui modelos convertidos via TensorFlow.js para execução direta no navegador.
 
-### 🌐 Desenvolvimento Fullstack & Engenharia de Software
+###  Desenvolvimento Fullstack & Engenharia de Software
 * **🍕 [Delizza](https://github.com/MariaClaraBertolo/Delizza):** Sistema web de gerenciamento para pizzarias construído sob a arquitetura MVC com Java (JSP/Servlets), Apache Tomcat e banco relacional MySQL. Permite fluxos administrativos de insumos e montagem de pedidos personalizados por clientes.
 * **🐂 [BOVINTRADE](https://github.com/marianapegon/BOVINTRADE):** Sistema digital focado na modernização, agilização e logística de comercialização agropecuária. Iniciado em Java, passou por uma migração estratégica para o PHP para integrar a comunicação entre as camadas e otimhar regras de negócio.
 
-### 🎨 Design Gráfico, UI/UX & Comunicação
+###  Design Gráfico, UI/UX & Comunicação
 * **📢 [Social Media Design Portfolio](https://github.com/elicarolslv/social-media-design-portfolio):** Portfólio de monitoria institucional focado em design visual, gerenciamento de conteúdo técnico-comportamental e campanhas acadêmicas organizadas (Vestibular e Encontros) para a página oficial de ADS da FATEC Ourinhos.
 * **🏦 [Banco Capitalis](https://github.com/elicarolslv/banco-capitalis):** Protótipo de alta fidelidade e wireframes para uma aplicação de Mobile Banking moderna e fluida, centralizando jornadas de autenticação, Pix, extratos e investimentos.
 
