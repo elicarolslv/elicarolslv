@@ -4,8 +4,6 @@ Tecnóloga em Análise e Desenvolvimento de Sistemas pela FATEC Ourinhos.
 
 Tenho experiência em desenvolvimento Full Stack, desenvolvimento Backend com Java, UI/UX e bancos de dados. Gosto de criar soluções que unem código, boa experiência do usuário e organização de processos.
 
-## 🚀 Tecnologias
-
 ### Linguagens e Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -24,27 +22,27 @@ Tenho experiência em desenvolvimento Full Stack, desenvolvimento Backend com Ja
 
 ## 📌 Projetos
 
-### 🤟 LibrasKids
+###  LibrasKids
 Sistema educacional para o ensino de Libras utilizando IA com MediaPipe, OpenCV, TensorFlow.js e Flask.
 
 ➡️ https://github.com/elicarolslv/libraskids
 
-### 🍕 Delizza
+###  Delizza
 Sistema web para gerenciamento de pizzarias desenvolvido em Java (JSP/Servlets), MySQL e Apache Tomcat.
 
 ➡️ https://github.com/MariaClaraBertolo/Delizza
 
-### 🐂 Bovintrade
+###  Bovintrade
 Sistema para comercialização agropecuária desenvolvido em PHP, Java e SQL.
 
 ➡️ https://github.com/marianapegon/BOVINTRADE
 
-### 🎨 Social Media Portfolio
+###  Social Media Portfolio
 Projetos de design gráfico e comunicação desenvolvidos durante minha monitoria na FATEC.
 
 ➡️ https://github.com/elicarolslv/social-media-design-portfolio
 
-### 🏦 Banco Capitalis
+###  Banco Capitalis
 Protótipo de aplicativo bancário desenvolvido no Figma com foco em UX/UI.
 
 ➡️ https://github.com/elicarolslv/banco-capitalis
