@@ -1,4 +1,4 @@
-# Elisandra Carol
+# Hi, I'm Elisandra Carol da Silva
 
 Software Developer
 
