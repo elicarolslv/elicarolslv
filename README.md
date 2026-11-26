@@ -1,14 +1,20 @@
 # Hi, I'm Elisandra!
 
-Software Developer
+Technology professional with a degree in Systems Analysis and Development.
 
-I build backend applications, explore AI, and create user-centered digital experiences.
+Currently working with software testing, IT support, data validation, and software development processes. Previous experience in backend and frontend development.
 
-## Stack
+## Technologies & Tools
 
-Java • Spring Boot • Python • JavaScript • React • PHP • Flask • MySQL • PostgreSQL • Git • Figma
+**Development:** Java • Spring Boot • Angular • JavaScript • React • Python • PHP • Flask
+
+**Testing & Support:** Postman • Jira • REST APIs • JSON • Excel
+
+**Databases:** MySQL • PostgreSQL
+
+**Other Tools:** Git • GitHub • Figma
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/elisandra-carol-da-silva-02424922b/
+- [LinkedIn](https://www.linkedin.com/in/elisandra-carol-da-silva-02424922b/)
 - Email: eliycarol38@gmail.com
