@@ -17,4 +17,4 @@ Currently working with software testing, IT support, data validation, and softwa
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/elisandra-carol-da-silva-02424922b/)
-- Email: eliycarol38@gmail.com
+- eliycarol38@gmail.com
